@@ -1,4 +1,4 @@
-# Aut-mato-Finito-Determin-stico-
+# Autômato Finito Determinístico-
 Implementação de um autômato finito determinístico (AFD)
 
 Que lê a seguinte linguagem:
